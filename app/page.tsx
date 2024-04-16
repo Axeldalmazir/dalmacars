@@ -1,4 +1,4 @@
-'use client';
+"use client"
 import SloganSection from './components/SloganSection';
 import HeaderSection from './components/HeaderSection';
 import Devise from './components/Devise';
